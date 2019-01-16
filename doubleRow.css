@@ -1,0 +1,31 @@
+.cssTeamsMenu {  
+    position: absolute;
+    transition: .5s;
+    top: 35vh;
+    padding-left: 5px;
+}
+.cssTeamsMenu:hover{
+    margin-left: 110px;
+}
+.teamIconContainer{
+    position: inherit;
+    left: -120px;
+    width: 110px;
+    top: -95px;
+}
+.menuTitle{
+  padding-left: 5px;
+}
+.teamIcon {
+  height: 50px;
+  width: 50px; 
+  border-radius: 3px;
+  border: 1px solid transparent;
+} 
+.teamIcon:hover{  
+  transform: scale(1.2) translateX(2px);
+  border-radius: 3px; 
+  border: 1px solid whitesmoke; 
+  transition: 0.3s; 
+  cursor: pointer;
+}
