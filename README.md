@@ -12,3 +12,7 @@ index.htm / index.css
     much more compact, user friendly and responsive
     re-wrote the CSS because I have a much better understanding than I did
     several weeks ago when I created the first menu
+
+Double column menu, improved:
+doubleColumn.htm / doubleColumn.css
+  changed title image to CSS styled text
